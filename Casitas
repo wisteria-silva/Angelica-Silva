@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384- GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <title>Casitas</title>
+
+</head>
+<body>
+  <header>
+    <div class="container-fluid" id="container-0">
+        <div class="row-12" id="container-0-1"><img src="./Imagenes/Nuevo.png" alt="Logo"></div>
+        <div class="row-6" id="container-0-2">
+          <div class="menu">
+            <ul>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Inicio/index.html">Inicio</a></li>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Nosotros/index.html">Nosotros</a></li>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Casitas/index.html">Casitas</a></li>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Sucursal/index.html">Sucursal</a></li>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Contacto/index.html">Contacto</a></li>
+            </ul>
+          </div>
+        </div>
+    </div>
+    </header>
+
+<div class="container" id="container-3-0">
+  <div class="row" id="container-3-1">
+    <h1>Selecciona tu Casita</h1>
+  </div>
+</div>
+
+<div class="container" id="container-3-2">
+  <div class="row">
+    <div class="col" id="container-3-3">
+      <div class="card" style="width: 18rem;">
+        <img src="./Imagenes/1.jpg" class="card-img-top" alt="Castillo">
+        <div class="card-body">
+          <h5 class="card-title">Fantasy</h5>
+          <p class="card-text">Las casitas y castillos más icónicos inspirados en el mundo de la fantasia y la ficción.</p>
+          <a href="#" class="btn" id="container-3-6">Ver más..</a>
+        </div>
+      </div>
+    </div>
+    <div class="col" id="container-3-4"> <div class="card" style="width: 18rem;">
+      <img src="./Imagenes/2.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Sencillas</h5>
+        <p class="card-text">La casita tradicional en diferentes sabores de galleta y glaseado que son personalizables.</p>
+        <a href="#" class="btn" id="container-3-7">Ver más..</a>
+      </div>
+    </div>
+  </div>
+  <div class="col" id="container-3-5"><div class="card" style="width: 18rem;">
+    <img src="./Imagenes/3.jfif" class="card-img-top" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">Replicas</h5>
+      <p class="card-text">Las replicas de los monumentos y construcciones más importantes del mundo.</p>
+      <a href="#" class="btn" id="container-3-8">Ver más..</a>
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+
+<footer>
+  <div class="container-fluid" id="container-0-3">
+  <div class="row" id="container-0-4">
+    <div class="col" id="container-0-5">
+      <img src="./Imagenes/Former_Visa_(company)_logo.svg.png" alt="pago-1" width="3.5%">
+      <img src="./Imagenes/Mastercard-logo.jpg" alt="pago-2" width="3.5%">
+      <img src="./Imagenes/pay.jpg" alt="pago-3" width="3.5%">
+    </div>
+
+
+<div class="col" id="container-0-6">
+    <img src="./Imagenes/fb.png" alt="facebook-logo" width="3%">
+    <img src="./Imagenes/Instagram.png" alt="instagram-logo" width="3.5%">
+   
+</div>
+  <div class="row" id="container-0-7" >© 2023, Crunchy House Boutique</div>
+</div>
+</div>
+</footer>
+
+  
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384- w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
+  </html>
