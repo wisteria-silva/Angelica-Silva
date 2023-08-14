@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384- GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    <title>Casitas</title>
+
+</head>
+<body>
+  <header>
+    <div class="container-fluid" id="container-0">
+        <div class="row-12" id="container-0-1"><img src="./Imagenes/Nuevo.png" alt="Logo"></div>
+        <div class="row-6" id="container-0-2">
+          <div class="menu">
+            <ul>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Inicio/index.html">Inicio</a></li>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Nosotros/index.html">Nosotros</a></li>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Casitas/index.html">Casitas</a></li>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Sucursal/index.html">Sucursal</a></li>
+              <li class="col-2"><a href="file:///D:/Users/ASUS/Documents/practicasjunior/Crunchy%20House/Contacto/index.html">Contacto</a></li>
+            </ul>
+          </div>
+        </div>
+    </div>
+    </header>
+
+<div class="container-fluid" id="container-2-0">
+  <div class="container" id="container-2-1">
+    <div class="col" id="container-2-2">
+      <div class="row-6" id="container-2-3"><img src="./Imagenes/Nuevo.jpg" alt="Logo"></div>
+      <div class="row-6" id="container-2-4"><p>Somos una empresa dedicada a la produccion artesanal de casas de galleta desde el año 2014.</p></div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid" id="container-2-5">
+  <div class="container" id="container-2-6">
+    <div class="row-12" id="container-2-7"><h1>Proceso</h1></div>
+    <div class="row" id="container-2-8">
+      <div class="col-6" id="container-2-9">
+        <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner">
+            <div class="carousel-item active" data-bs-interval="10000">
+              <img src="./Imagenes/OIG 1.jfif" class="d-block w-100" alt="Proceso-1">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+              <img src="./Imagenes/OIG (2)2.jfif" class="d-block w-100" alt="Proceso-2">
+            </div>
+            <div class="carousel-item" data-bs-interval="2000">
+              <img src="./Imagenes/OIG (3).jfif" class="d-block w-100" alt="Proceso-3">
+            </div>
+            <div class="carousel-item">
+              <img src="./Imagenes/OIG 4.jfif" class="d-block w-100" alt="Proceso-4">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+      <div class="col-6" id="container-2-10">
+        <p>El proceso de elaboración de cada casita depende de la línea de productos a la que pertenece. Aun así, a todas se les puede personalizar el sabor de la galleta y el tamaño de esta.</p>
+        <p>Actualmente contamos con 3 líneas de productos: Fantasy, Sencilla y Réplica.</p>
+        <p>La línea Fantasy está enfocada en la personalización del diseño, tamaño y sabores a gusto del cliente, dando como resultado una casita única e irrepetible, inspirada en las casitas y castillos más icónicos del mundo de la fantasía y la ficción.</p>
+        <p>La línea Sencilla está enfocada en la variedad de sabores de galleta y glaseado a elegir manteniendo el diseño de casita tradicional.</p>
+        <p>La línea Réplica está enfocada en hacer réplicas de los monumentos y construcciones más importantes del mundo en galleta y glaseado, con una ventana de personalización de sabores y diseño más limitada.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid" id="container-2-5-0">
+  <div class="container" id="container-2-6-0">
+    <div class="row-12" id="container-2-7-0"><h1>Ingredientes</h1></div>
+    <div class="row" id="container-2-8-0">
+      <div class="col-6" id="container-2-9-0">
+        <div id="carouselExample" class="carousel slide">
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <img src="./Imagenes/Ingredientes 1.jfif" class="d-block w-100" alt="Ingredientes-1">
+            </div>
+            <div class="carousel-item">
+              <img src="./Imagenes/Ingredientes 2.jfif" class="d-block w-100" alt="Ingredientes-2">
+            </div>
+            <div class="carousel-item">
+              <img src="./Imagenes/Ingredientes 3.jfif" class="d-block w-100" alt="Ingredientes-3">
+            </div>
+            <div class="carousel-item">
+              <img src="./Imagenes/Ingredientes 4.jfif" class="d-block w-100" alt="Ingredientes-4">
+            </div>
+          </div>
+          <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+      <div class="col-6" id="container-2-10-0">
+        <p>Nuestras galletas están hechas con ingredientes cuidadosamente seleccionados para asegurar su alta calidad.</p>
+        <p>Creemos que los ingredientes que se utilizan para hacer las galletas son tan importantes como la receta en sí. Por eso, todos nuestros ingredientes son orgánicos, libres de GMO, de producción local y de comercio justo. </p>
+        <p>Nuestras harinas son molidas a piedra, los huevos, leche y mantequilla que usamos son de gallinas y vacas de libre pastoreo, así como nuestro chocolate de alta calidad originario de Tabasco. También utilizamos otros ingredientes frescos y de temporada, como los boniatos morados, las moras azules y los limones amarillos.</p>
+        <p>Ofrecemos una variedad de sabores de galletas incluyendo chocolate, chocolate blanco, matcha, mocha, taro/boniato, limón, mantequilla, chai, red velvet, vainilla, pumpkin spice y mora azul.</p>
+        <p>Estamos comprometidos a ofrecer a nuestros clientes la mejor experiencia posible, por lo que nuestras galletas están disponibles en una variedad de tamaños y cantidades. También ofrecemos una opción de entrega para que pueda disfrutar de nuestras deliciosas galletas en la comodidad de su hogar.</p>
+  
+      </div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="container-fluid" id="container-0-3">
+  <div class="row" id="container-0-4">
+    <div class="col" id="container-0-5">
+      <img src="./Imagenes/Former_Visa_(company)_logo.svg.png" alt="pago-1" width="3.5%">
+      <img src="./Imagenes/Mastercard-logo.jpg" alt="pago-2" width="3.5%">
+      <img src="./Imagenes/pay.jpg" alt="pago-3" width="3.5%">
+    </div>
+
+
+<div class="col" id="container-0-6">
+    <img src="./Imagenes/fb.png" alt="facebook-logo" width="3%">
+    <img src="./Imagenes/Instagram.png" alt="instagram-logo" width="3.5%">
+   
+</div>
+  <div class="row" id="container-0-7" >© 2023, Crunchy House Boutique</div>
+</div>
+</div>
+</footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384- w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
+  </html>
