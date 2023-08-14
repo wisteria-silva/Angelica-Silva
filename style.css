@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+#container-0 {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+}
+
+#container-0-1 {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    background-color: #f5a0c7
+}
+#container-0-1 img {
+    width: 15%;
+}
+#container-0-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+    background-color: #f9bbd0;
+    padding-top: 1.5%;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+} 
+
+li{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%; 
+    list-style: none; 
+    padding-top: 1.5%;
+    font-family: 'Lobster', cursive;
+    font-size: 140%;}
+
+li a {
+    text-decoration: none;
+}
+
+
+
+#container-4-1 {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    font-family: 'Lobster', cursive;
+    background-color: #f9bbd0;}
+
+#container-4-3 {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: #a9ddeb;
+ }
+ #container-0-3 {
+    background-color: #f5a0c7;
+    margin-top: 3%;
+}
+#container-0-4 {
+    display: flex;
+    flex-direction: row;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-family: kalam;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1.5%;
+}
+
+#container-0-5 {
+    font-family: kalam;
+    padding-top: 1.5%;
+}
+
+#container-0-5 img {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+#container-0-6 img {
+    float: right;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+#container-0-6 {
+    padding-top: 1.5%;
+}
+
+#container-0-7 {
+    margin-top: 1.5%;
+}
+footer {
+    margin: 10px;
+  }
